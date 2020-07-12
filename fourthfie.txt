@@ -3,3 +3,5 @@ This is the 4th file.
 changes in feature1 branch on 12th July.
 
 changes in a master branch on 12th july.
+
+new changes in 4th file.
