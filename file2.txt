@@ -6,3 +6,5 @@ new changes in file2.txt
 Also making changes in file2.txt in feature1 branch.
 
 changes made in feature1
+
+further changes in feature1
